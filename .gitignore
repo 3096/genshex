@@ -1,0 +1,3 @@
+# Ignore local env file with secrets
+.env
+__pycache__
